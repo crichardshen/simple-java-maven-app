@@ -20,6 +20,6 @@ public class AppTest
     public void testAppMessage()
     {
         App app = new App();
-        assertEquals("Hello World!", app.getMessage());
+        assertEquals("Hello World! this is from bug fix branch.", app.getMessage());
     }
 }
