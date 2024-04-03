@@ -5,7 +5,7 @@
   <artifactId>my_app</artifactId>
   <packaging>jar</packaging>
   <version>1.0_SNAPSHOT</version>
-  <name>my-app</name>
+  <name>my_app</name>
   <url>https://maven.apache.org</url>
   <dependencies>
     <dependency>
